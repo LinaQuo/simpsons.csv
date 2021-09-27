@@ -1,0 +1,9 @@
+id,name,sex,age,weight,,,,
+H,Homer,2,2,3,,,Codebuch,
+M,Marge,1,2,2,,,sex ,"1 = female, 2 = male"
+B,Bart,2,1,2,,,age,"1 = young, 2 = middleage, 3 = old"
+L,Lisa,1,1,2,,,weight,"1 = skinny, 2 = normal, 3 = overweight"
+Ma,Maggie,1,1,1,,,,
+F,Flanders,2,2,2,,,,
+Mo,Mo,2,2,1,,,,
+Bu,Mr. Burns,2,3,1,,,,
